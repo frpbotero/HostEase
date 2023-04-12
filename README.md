@@ -19,4 +19,3 @@
  
  
 ### Verificar como fazemos para cada cliente ter seu proprio banco, criar um sistema de gerenciamento de licenças
-testasd 
