@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { CardsOfYear } from '../components/CardsOfYear'
+import { CardsOfYear } from '../components/calendar/CardsOfYear'
 import moment from 'moment'
 
 const Calendar = () => {
